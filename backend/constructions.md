@@ -44,7 +44,7 @@ python manage.py migrate
 
 
 # to run server
-python manage.py runserve
+python manage.py runserver
 
 # Errors 
 1- error rest frame work undefined after installation 
